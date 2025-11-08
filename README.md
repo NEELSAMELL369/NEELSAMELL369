@@ -89,26 +89,14 @@
 - Tech Used: Next.js, React, TypeScript, CSS Modules, Framer Motion, Nodemailer, Heroicons, React Icons.
 - [🔗 Live Demo](https://portfolio-rdvb.vercel.app/) | [📜 Code](https://github.com/NEELSAMEL23/Portfolio)
 
-### 🎥 Search Movie 
-
-- A **React + Firebase**-based movie streaming platform with real-time search, filtering, and pagination.
-- **Tech Used:** React, Firebase, React Router DOM, Tailwind CSS.
-- [🔗 Live Demo](https://neelsamel23.github.io/Movies_Gallery/) | [📜 Code](https://github.com/NEELSAMEL23/Movies_Gallery)
-
-### 😂 Meme Gallery
-- A simple and interactive meme gallery that fetches memes from the Imgflip API with search, sort, filter, and pagination features.
-- Features: Meme search, width-based filters, sorting (name/width), responsive design, pagination, error handling.
-- Tech Used: HTML5, CSS3, JavaScript (ES6+), Imgflip API.
-- [🔗 Live Demo](https://neelsamel23.github.io/Meme_Gallery/) | [📜 Code](https://github.com/NEELSAMEL23/Meme_Gallery)  
-  
-
+ 
 
 
 ## 📊 GitHub Stats:
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEELSAMEL23&theme=dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEELSAMEL23&theme=dark&hide_border=true&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEELSAMELL369&theme=dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEELSAMELL369&theme=dark&hide_border=true&layout=compact) |
 |---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NEELSAMEL23&theme=dark&hide_border=true) | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NEELSAMEL23&theme=github_dark) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NEELSAMELL369&theme=dark&hide_border=true) | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NEELSAMELL369&theme=github_dark) |
 
 ---
 
