@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-size: 2.2em;">Hi there! I'm <strong>Neell Samel</strong> 👋</h1>
-<h2 align="center" style="font-size: 1.5em;">💻 Full-Stack Developer | Frontend Developer 🚀</h2>
+<h2 align="center" style="font-size: 1.5em;">💻 Full-Stack Developer </h2>
 <h3 align="center" style="font-size: 1.2em;">💡 Passionate about building scalable and user-friendly web applications</h3>
 
 <br/>
